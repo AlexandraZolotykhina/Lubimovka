@@ -1,0 +1,15 @@
+.card{
+    background-color: #FFFFFF;
+}
+@media screen and (min-width: 800px) {
+    .card{
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .card{
+        width: 718px;
+    }
+}
