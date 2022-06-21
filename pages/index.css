@@ -6,6 +6,7 @@
 @import url(../blocks/reviews/__wrapper/reviews__wrapper.css);
 @import url(../blocks/reviews/__title/reviews__title.css);
 @import url(../blocks/reviews/__card/reviews__card.css);
+@import url(../blocks/reviews/__points/reviews__points.css);
 
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__logo/card__logo.css);
@@ -16,4 +17,11 @@
 @import url(../blocks/wrapper/__buttons/wrapper__buttons.css);
 @import url(../blocks/wrapper/__button/wrapper__button.css);
 @import url(../blocks/wrapper/__button/_type/wrapper__button_type_prev.css);
-@import url(../blocks/wrapper/__points/wrapper__points.css);
+
+@import url(../blocks/viewer-reviews/viewer-reviews.css);
+@import url(../blocks/viewer-reviews/__title/viewer-reviews__title.css);
+@import url(../blocks/viewer-reviews/__blockquote/viewer-reviews__blockquote.css);
+@import url(../blocks/viewer-reviews/__card/viewer-reviews__card.css);
+@import url(../blocks/viewer-reviews/__card-wrapper/viewer-reviews__card-wrapper.css);
+@import url(../blocks/viewer-reviews/__author/viewer-reviews__author.css);
+@import url(../blocks/viewer-reviews/__points/viewer-reviews__points.css);
