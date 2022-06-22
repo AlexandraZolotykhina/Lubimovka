@@ -1,0 +1,49 @@
+.social-network__link {
+    display: block;
+    position: relative;
+
+    color: #242424;
+    text-decoration: none;
+
+    font-family: 'Formular';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 14px;
+
+    padding-bottom: 7px;
+    padding-left: 24px;
+    padding-right: 7px;
+    
+    border-left: 1px solid #242424;
+    border-bottom: 1px solid #242424;
+}
+.social-network__link::before{
+    content: "";
+    background-image: url(../../../images/arrow.svg);
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    display: block;
+    left: 0;
+    top: 2px;
+    position: absolute;
+}
+
+.social-network__link:hover {
+    background-color: #242424;
+    color: #ECEBE8;
+}
+
+.social-network__link:hover::before{
+    background-image: url("../../../images/arrow-hover.svg");
+    content: "";
+
+    width: 23px;
+    height: 21px;
+    background-repeat: no-repeat;
+    display: block;
+    left: 0;
+    top: -3px;
+    position: absolute;
+}

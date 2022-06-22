@@ -1,0 +1,11 @@
+.social-network__wrapper{
+    width: 88%;
+    margin: 0 auto;
+} 
+
+@media screen and (min-width: 800px){
+    .social-network__wrapper {
+        width: 666px;
+        position: relative;
+    }
+}
