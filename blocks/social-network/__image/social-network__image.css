@@ -1,0 +1,21 @@
+.social-network__image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    margin-bottom: 25px;
+}
+@media screen and (min-width: 800px){
+    .social-network__image {
+        width: 80%;
+        height: 300px;
+        margin: 0 auto;
+        margin-bottom: 25px;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    .social-network__image {
+        width: 1320px;
+        height: 404px;
+    }
+}

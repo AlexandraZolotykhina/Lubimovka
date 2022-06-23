@@ -1,0 +1,21 @@
+.viewer-reviews__card{
+    background-color: #FFFFFF;
+    padding-top: 33px;
+    padding-bottom: 100px;
+}
+
+
+
+@media screen and (min-width: 800px){
+    .viewer-reviews__card {
+        width: 80%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    .viewer-reviews__card{
+        width: 420px;
+    }
+}
