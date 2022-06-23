@@ -1,0 +1,7 @@
+@media screen and (min-width: 1200px) {
+    .viewer-reviews__points{
+        position: absolute;
+        top: 12px;
+        right: 511px;
+    }
+}
