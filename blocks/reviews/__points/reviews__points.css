@@ -1,0 +1,7 @@
+@media screen and (min-width: 1200px) {
+    .reviews__points{
+        position: absolute;
+        top: 120px;
+        right: 354px;
+    }
+}

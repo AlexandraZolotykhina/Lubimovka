@@ -1,0 +1,22 @@
+.footer {
+    color: #242424;
+
+    padding-top: 56px;
+    padding-bottom: 74px;
+
+    font-family: 'Formular', Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+@media screen and (min-width: 800px) {
+    .footer {
+        position: relative;
+    }
+}
+
+@media screen and (min-width: 1500px) {
+    .footer{
+        width: 1320px;
+        margin: 0 auto;
+    }
+}

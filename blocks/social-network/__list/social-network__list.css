@@ -1,0 +1,15 @@
+.social-network__list{
+    margin: 15px 0;
+    padding: 0;
+    list-style-type: none;
+
+    display: flex;
+    column-gap: 9px;
+}
+@media screen and (min-width: 800px){
+    .social-network__list {
+        position: absolute;
+        top: -17px;
+        left: 220px;
+    }
+}

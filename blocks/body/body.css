@@ -1,7 +1,10 @@
 .body{
-    font-family: "Formular", Arial, Helvetica, sans-serif;
     max-width: 1440px;
     margin: 0 auto;
+
+    font-family: "Formular", Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 300;
+
+    background-color: #ECEBE8;
 }

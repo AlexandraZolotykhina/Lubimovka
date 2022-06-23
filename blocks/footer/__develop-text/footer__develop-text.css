@@ -1,0 +1,10 @@
+.footer__develop-text{
+    margin: 0;
+    margin-top: 16px;
+}
+
+@media screen and (min-width: 700px) {
+    .footer__develop-text{
+        margin-top: 0;
+    }
+}

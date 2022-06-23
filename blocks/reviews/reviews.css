@@ -1,0 +1,19 @@
+.reviews{
+    padding-top: 105px;
+    padding-bottom: 76px;
+    
+    color: #242424;
+    background-color: #E5E5E5;
+
+    font-family: 'Neue Machina', Arial, Helvetica, sans-serif;
+    font-style: normal;
+
+    position: relative;
+}
+
+@media screen and (min-width: 1400px) {
+    .reviews{
+        padding-top: 150px;
+        padding-bottom: 116px;
+    }
+}

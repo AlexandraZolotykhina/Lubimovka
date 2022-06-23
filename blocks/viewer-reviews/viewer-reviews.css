@@ -1,0 +1,13 @@
+.viewer-reviews{
+    font-family: 'Neue Machina', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    
+    background-color: #E5E5E5;
+    color: #242424;
+}
+
+@media screen and (min-width: 1200px) {
+    .viewer-reviews{
+        position: relative;
+    }
+}
