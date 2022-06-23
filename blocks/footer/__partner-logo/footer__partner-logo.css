@@ -1,14 +1,6 @@
 .footer__partner-logo {
-    padding-left: 20px;
-
     width: 110.38px;
     height: 40.65px;
     object-fit: cover;
     mix-blend-mode: multiply;
-}
-
-@media screen and (min-width: 414px) {
-    .footer__partner-logo {
-        padding-left: 57px;
-    }
 }

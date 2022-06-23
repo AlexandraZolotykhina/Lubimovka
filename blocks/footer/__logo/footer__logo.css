@@ -9,3 +9,9 @@
         padding-left: 55px;
     }
 }
+@media screen and (min-width: 950px) {
+    .footer__logo {
+        padding-left: 32px;
+    }
+    
+}

@@ -1,7 +1,13 @@
 .footer__partner-text {
     display: none;
-
+    width: 145px;
     font-weight: 300;
     font-size: 14px;
     line-height: 17px;
+}
+
+@media screen and (min-width: 930px) {
+    .footer__partner-text {
+        display: block;
+    }
 }

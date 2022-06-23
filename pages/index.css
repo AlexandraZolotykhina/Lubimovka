@@ -1,6 +1,7 @@
 /*импорты css-файлов*/
 @import url(../vendor/normalize.css);
 @import url(../vendor/font/font.css);
+@import url(../blocks/body/body.css);
 
 @import url(../blocks/reviews/reviews.css);
 @import url(../blocks/reviews/__wrapper/reviews__wrapper.css);
@@ -54,3 +55,6 @@
 @import url(../blocks/footer/__partner-link/footer__partner-link.css);
 @import url(../blocks/footer/__lubimovka/footer__lubimovka.css);
 @import url(../blocks/footer/__design-text/footer__design-text.css);
+@import url(../blocks/footer/__partner/footer__partner.css);
+@import url(../blocks/footer/__design-develop/footer__design-develop.css);
+@import url(../blocks/footer/__lubimovka-info-link/footer__lubimovka-info-link.css);

@@ -16,6 +16,26 @@
 
 @media screen and (min-width: 414px) {
     .footer__links {
-        padding-left: 55px;
+        padding: 0 55px;
+
+    }
+}
+@media screen and (min-width: 800px) {
+    .footer__links {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        top: 170px;
+        right: 30px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .footer__links {
+       left: 580px;
+    }
+}
+@media screen and (min-width: 1400px) {
+    .footer__links {
+       left: 780px;
     }
 }
