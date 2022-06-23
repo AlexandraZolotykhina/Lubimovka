@@ -1,0 +1,21 @@
+.footer__partners{
+    display: flex;
+    align-items: center;
+    column-gap: 25px;
+    row-gap: 40px;
+    flex-wrap: wrap;
+
+    margin: 0;
+    margin-top: 85px;
+    padding: 0;
+    padding-bottom: 94px;
+    border-bottom: 1px solid #242424;
+
+    list-style-type: none;
+}
+@media screen and (min-width: 414px) {
+    .footer__partners{
+        column-gap: 48px;
+        row-gap: 40px;
+    }
+}

@@ -1,0 +1,14 @@
+.footer__info {
+    margin-top: 32px;
+    padding-left: 18px;
+     
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@media screen and (min-width: 414px) {
+    .footer__info  {
+        padding-left: 28px;
+    }
+}

@@ -1,0 +1,7 @@
+.footer__design{
+    display: flex;
+    align-items: center;
+    column-gap: 9px;
+    
+    margin-top: 59px;
+}

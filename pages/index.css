@@ -32,3 +32,25 @@
 @import url(../blocks/social-network/__list/social-network__list.css);
 @import url(../blocks/social-network/__link/social-network__link.css);
 @import url(../blocks/social-network/__wrapper/social-network__wrapper.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__address/footer__address.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__address-text/footer__address-text.css);
+@import url(../blocks/footer/__address-title/footer__address-title.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__item/footer__item.css);
+@import url(../blocks/footer/__partners/footer__partners.css);
+@import url(../blocks/footer/__partner-info/footer__partner-info.css);
+@import url(../blocks/footer/__partner-logo/footer__partner-logo.css);
+@import url(../blocks/footer/__partner-text/footer__partner-text.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__info-link/footer__info-link.css);
+@import url(../blocks/footer/__design/footer__design.css);
+@import url(../blocks/footer/__design-logo/footer__design-logo.css);
+@import url(../blocks/footer/__develop-text/footer__develop-text.css);
+@import url(../blocks/footer/__partner-link/footer__partner-link.css);
+@import url(../blocks/footer/__lubimovka/footer__lubimovka.css);
+@import url(../blocks/footer/__design-text/footer__design-text.css);
