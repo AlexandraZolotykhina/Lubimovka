@@ -1,0 +1,11 @@
+.reviews__card {
+    padding-top: 33px;
+    padding-bottom: 77px;
+}
+
+@media screen and (min-width: 1400px) {
+    .reviews__card {
+        padding-top: 55px;
+        padding-bottom: 72px;
+    }
+}
