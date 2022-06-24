@@ -1,0 +1,9 @@
+.column__title {
+    display: flex;
+    margin: 62px 60px 37px 0;
+    padding: 0;
+    width: 540px;
+    font-size: 72px;
+    line-height: 70px;
+    font-weight: 400;
+}

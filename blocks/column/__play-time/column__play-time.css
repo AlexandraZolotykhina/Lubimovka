@@ -1,0 +1,8 @@
+.column__play-time {
+    display: flex;
+    margin: 0 0 16px 4px;
+    padding: 0;
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: 400;
+}
