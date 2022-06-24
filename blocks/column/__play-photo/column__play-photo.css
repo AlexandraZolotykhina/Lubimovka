@@ -1,0 +1,6 @@
+.column__play-photo {
+    object-fit: contain;
+    width: 720px;
+    height: 614px;
+    margin: 0 0 48px;
+}
