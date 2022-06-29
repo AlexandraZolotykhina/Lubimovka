@@ -1,3 +1,9 @@
 .header__item_margin_end-right {
     margin-left: 23px;
 }
+
+@media (min-width: 1440px) {
+    .header__item_margin_end-right {
+        display: flex;
+    }
+}

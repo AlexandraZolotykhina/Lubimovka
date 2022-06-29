@@ -1,3 +1,18 @@
 .header__item_margin_medium {
-    margin-right: 44px; 
+    margin: 32px 19px 54px 24px;
+}
+
+@media (min-width: 1080px) {
+    .header__item_margin_medium {
+        display: flex;
+        margin: 0;
+        margin-right: calc(30px + (100vw - 1080px) * 0.039);
+    }
+}
+
+@media (min-width: 1440px) {
+    .header__item_margin_medium {
+        display: flex;
+        margin-right: 44px;
+    }
 }

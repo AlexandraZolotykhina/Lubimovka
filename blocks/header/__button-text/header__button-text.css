@@ -1,0 +1,8 @@
+.header__button-text {
+    margin: auto;
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 14px;
+    font-weight: 300;
+}

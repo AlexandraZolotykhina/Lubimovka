@@ -1,0 +1,8 @@
+.header__button-arrow {
+    position: absolute;
+    top: 9px;
+    right: 0;
+    object-fit: contain;
+    width: 21px;
+    height: 13px;
+}
