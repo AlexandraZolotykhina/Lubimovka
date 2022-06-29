@@ -1,0 +1,14 @@
+.header__item {
+    display: none;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+@media (min-width: 1440px) {
+    .header__item {
+        display: flex;
+    }
+}

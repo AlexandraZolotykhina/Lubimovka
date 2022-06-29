@@ -1,0 +1,19 @@
+.header__item_margin_small {
+    margin: 0 8px;
+}
+
+.header__item_margin_small:first-of-type {
+    margin-left: 24px;
+    border-left: 1px solid #242424;
+}
+
+.header__item_margin_small:last-of-type {
+    margin-right: 26px;
+    border-right: 1px solid #242424;
+}
+
+@media (min-width: 1440px) {
+    .header__item_margin_small {
+        display: flex;
+    }
+}
